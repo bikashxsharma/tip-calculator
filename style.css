@@ -43,9 +43,13 @@ border-radius: 10px;
 }
 .input-fied input{
     height:40px;
-
+    display:inline,
+}
+.input-fied span{
+    display:inline;
 
 }
+
 button{
     background-color:rgb(167, 65, 70);
     padding:1rem 2rem 1rem 2rem;
